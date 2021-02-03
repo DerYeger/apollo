@@ -1,0 +1,18 @@
+version: "3.7"
+
+services:
+  gramofo-frontend:
+    build:
+      context: ./gramofo-frontend
+      dockerfile: Dockerfile
+      args: 
+        - BACKEND_URL=http://jan-mueller.at:8080
+    ports:
+      - 80:80
+  gramofo-backend:
+    build:
+      context: ./gramofo-backend
+      dockerfile: Dockerfile
+    ports:
+      - 8080:8080
+
