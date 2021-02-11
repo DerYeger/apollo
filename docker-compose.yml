@@ -6,7 +6,7 @@ services:
       context: ./gramofo-frontend
       dockerfile: Dockerfile
       args: 
-        - BACKEND_URL=http://jan-mueller.at:8080
+        - BACKEND_URL=http://localhost:8080
     ports:
       - 80:80
   gramofo-backend:
