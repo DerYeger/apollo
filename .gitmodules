@@ -1,4 +1,0 @@
-[submodule "gramofo-frontend"]
-	path = gramofo-frontend
-	url = https://github.com/DerYeger/gramofo-frontend
-	branch = master
