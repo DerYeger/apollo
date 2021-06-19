@@ -5,32 +5,6 @@
 </p>
 
 <p align="center">
-  Frontend
-  <a href="https://github.com/DerYeger/gramofo-frontend/actions/workflows/ci.yml">
-    <img alt="CI" src="https://github.com/DerYeger/gramofo-frontend/actions/workflows/ci.yml/badge.svg?event=push">
-  </a>
-  <a href="https://github.com/DerYeger/gramofo-frontend/actions/workflows/cd.yml">
-    <img alt="CD" src="https://github.com/DerYeger/gramofo-frontend/actions/workflows/cd.yml/badge.svg">
-  </a>
-  <a href="https://github.com/DerYeger/gramofo-frontend/actions/workflows/maintenance.yml">
-    <img alt="Maintenance" src="https://github.com/DerYeger/gramofo-frontend/actions/workflows/maintenance.yml/badge.svg">
-  </a>
-</p>
-
-<p align="center">
-  Backend
-  <a href="https://github.com/DerYeger/gramofo-backend/actions/workflows/ci.yml">
-    <img alt="CI" src="https://github.com/DerYeger/gramofo-backend/actions/workflows/ci.yml/badge.svg?event=push">
-  </a>
-  <a href="https://github.com/DerYeger/gramofo-backend/actions/workflows/cd.yml">
-    <img alt="CD" src="https://github.com/DerYeger/gramofo-backend/actions/workflows/cd.yml/badge.svg">
-  </a>
-  <a href="https://github.com/DerYeger/gramofo-backend/actions/workflows/maintenance.yml">
-    <img alt="Maintenance" src="https://github.com/DerYeger/gramofo-backend/actions/workflows/maintenance.yml/badge.svg">
-  </a>
-</p>
-
-<p align="center">
    <a href="https://gramofo.yeger.eu/">
     gramofo.yeger.eu
   </a>
