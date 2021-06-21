@@ -1,9 +1,9 @@
 {
   "app": {
-    "title": "gramoFO"
+    "title": "Apollo"
   },
   "model-checker": {
-    "title": "ModelChecker",
+    "title": "Modellprüfer",
     "minimize-result": "Ergebnis minimieren",
     "minimize-tooltip": "Bei Aktivierung werden nur notwendige Überprüfungen durchgeführt. Notwendig für umfangreiche Graphen und komplexe Formeln."
   },
@@ -80,7 +80,8 @@
     "true": "Wahr",
     "syntax": "Syntax",
     "semantics": "Semantik",
-    "update-available": "Update verfügbar"
+    "update-available": "Update verfügbar",
+    "graph-not-found": "Dieser Graph existiert nicht."
   },
   "snackbar": {
     "graph-deleted": "Graph \"{{name}}\" wurde gelöscht."
