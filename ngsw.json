@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1624275215492,
+  "timestamp": 1624281484212,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.d4b40934fa323a163af4.js",
+        "/main.4358b116ceb5dc90d623.js",
         "/manifest.webmanifest",
         "/polyfills.8158f56a95cd77c78c8b.js",
         "/runtime.a8e3df57b7e3a0e985c1.js",
@@ -51,8 +51,8 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/i18n/de.json": "a202587a076a4de4e20f52aa67a08847433ea8ee",
-    "/assets/i18n/en.json": "0df57bc59dfdc2ea8500b52f94a4a6a01b311e68",
+    "/assets/i18n/de.json": "075c4cd7db61b3b79fe0581b1323b44c7f271c07",
+    "/assets/i18n/en.json": "d543ca7cd283c9bff4fe9d06772332c25aa0533a",
     "/assets/icons/android-chrome-192x192.png": "034de41ebd9f26be71c3bad315062dca518637c3",
     "/assets/icons/android-chrome-512x512.png": "5779f3100ccee59e7b68f1214348bf701593712c",
     "/assets/icons/apple-touch-icon.png": "1c56c79e122421d3bf6cc8d5dd1afa8c0c180d5e",
@@ -68,8 +68,8 @@
     "/favicon-16x16.png": "922d40d15719aac5c785250038b6870376ced0ef",
     "/favicon-32x32.png": "4ea71803efbb7d495d020b1cc3aaec9b8b272ceb",
     "/favicon.ico": "4be721124f2d5daa10fb5f2a9eaaf1cfa4266b5f",
-    "/index.html": "9694faa5438739b7858be057cde7cbd7cd9e5c90",
-    "/main.d4b40934fa323a163af4.js": "72804df4c3fe2597264e666f4550163bae0ed271",
+    "/index.html": "b84403ef69bdd13a781ae1955214fb7de65007b7",
+    "/main.4358b116ceb5dc90d623.js": "7bd8af4c09842a17b282714a704cd645f5a577ba",
     "/manifest.webmanifest": "255cadee03052d4d3bf25441ee5714193366c583",
     "/polyfills.8158f56a95cd77c78c8b.js": "55961508bf5df308b79f559f62548a2c85e10d46",
     "/runtime.a8e3df57b7e3a0e985c1.js": "29899f5bef9438ccf3af6ef2d3313180eaca7d3e",
