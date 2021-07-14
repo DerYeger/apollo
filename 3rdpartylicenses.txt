@@ -1,3 +1,6 @@
+@angular/common
+MIT
+
 deepmerge
 MIT
 The MIT License (MIT)
