@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1627516173082,
+  "timestamp": 1627573073259,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.49e46cb60d5ccdee4fd1.js",
+        "/main.d7bac460a92994e19b29.js",
         "/manifest.webmanifest",
         "/polyfills.4fdcb15c835a64e9879c.js",
         "/runtime.a8e3df57b7e3a0e985c1.js",
-        "/styles.1a0f2bae9e5618f6c4ce.css"
+        "/styles.471b31f97577788ac7d0.css"
       ],
       "patterns": []
     },
@@ -51,8 +51,8 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/i18n/de.json": "8ea26423d39d1ddfdb146ed3ee3273901c110492",
-    "/assets/i18n/en.json": "9dc35d280d0461c9dfbd478c6dc60fb58472b95b",
+    "/assets/i18n/de.json": "de7fdaef208b232a2aee9dfb729a8810e775a529",
+    "/assets/i18n/en.json": "77dac67cf63b810f9c5b84a9964dfd15439d399f",
     "/assets/icons/android-chrome-192x192.png": "034de41ebd9f26be71c3bad315062dca518637c3",
     "/assets/icons/android-chrome-512x512.png": "5779f3100ccee59e7b68f1214348bf701593712c",
     "/assets/icons/apple-touch-icon.png": "1c56c79e122421d3bf6cc8d5dd1afa8c0c180d5e",
@@ -68,12 +68,12 @@
     "/favicon-16x16.png": "922d40d15719aac5c785250038b6870376ced0ef",
     "/favicon-32x32.png": "4ea71803efbb7d495d020b1cc3aaec9b8b272ceb",
     "/favicon.ico": "4be721124f2d5daa10fb5f2a9eaaf1cfa4266b5f",
-    "/index.html": "e1130c3a11125ee5cb69a4f71aaa212f966bf632",
-    "/main.49e46cb60d5ccdee4fd1.js": "b66e593dd569e34ebea14c5acdf9fdee993ce53d",
+    "/index.html": "3ab11ce02e26777ec7f235b69cddca2b425880a6",
+    "/main.d7bac460a92994e19b29.js": "c6ce7da00d351037317f9434f650fda00543cbd3",
     "/manifest.webmanifest": "255cadee03052d4d3bf25441ee5714193366c583",
     "/polyfills.4fdcb15c835a64e9879c.js": "08b1cbf92ca9c6af2d7d6ff3494bad4609bd66d0",
     "/runtime.a8e3df57b7e3a0e985c1.js": "29899f5bef9438ccf3af6ef2d3313180eaca7d3e",
-    "/styles.1a0f2bae9e5618f6c4ce.css": "ef5611eefadeed35e7dde8890caaec47cf9fbea9"
+    "/styles.471b31f97577788ac7d0.css": "729f4f7331be0eb1bb3ff9aab3b7770b72a924ff"
   },
   "navigationUrls": [
     {
