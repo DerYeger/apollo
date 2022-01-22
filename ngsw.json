@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1642843056308,
+  "timestamp": 1642843686694,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.c10de9a2ff196151.js",
+        "/main.dcd0246a789e8ba2.js",
         "/manifest.webmanifest",
         "/polyfills.9f1993dfe31fbd50.js",
         "/runtime.f7152bb3312c13b3.js",
-        "/styles.77655c993b74a585.css"
+        "/styles.6e40f3eaa92eea1f.css"
       ],
       "patterns": []
     },
@@ -63,17 +63,17 @@
     "/assets/icons/mstile-310x310.png": "6a4fe67b4ed096663333d0a39b97b79f07a54a7e",
     "/assets/icons/mstile-70x70.png": "449331e4efd231ff78f9170b2b1707fcd92d0829",
     "/assets/icons/safari-pinned-tab.svg": "7cf6098b7c1f3c6b295049c444e51e39e1183c8d",
-    "/assets/styles/_variables.scss": "de09e312bd31bff936c33041e0f2a9f2244ee3dd",
+    "/assets/styles/_variables.scss": "b03b182db2d5b32cbe1fa5349d846caa82bad334",
     "/assets/styles/theme.scss": "9cd5ff6cef893bcd781902c43d272c500f7f6202",
     "/favicon-16x16.png": "922d40d15719aac5c785250038b6870376ced0ef",
     "/favicon-32x32.png": "4ea71803efbb7d495d020b1cc3aaec9b8b272ceb",
     "/favicon.ico": "4be721124f2d5daa10fb5f2a9eaaf1cfa4266b5f",
-    "/index.html": "fcbb4706b898fe6d118a12a78bd41f7578738024",
-    "/main.c10de9a2ff196151.js": "c4b973e1ac6a6532185b7eab54191313b6aab561",
+    "/index.html": "b59380c3c73efa5dbfa4876f9869cf2c40710c7c",
+    "/main.dcd0246a789e8ba2.js": "2d4b0a96b8f8559b7684f1b2664b068f68e44ac8",
     "/manifest.webmanifest": "255cadee03052d4d3bf25441ee5714193366c583",
     "/polyfills.9f1993dfe31fbd50.js": "a12c716ab54b8ee4861da6f611916c90ca068b46",
     "/runtime.f7152bb3312c13b3.js": "b79579f467fa0d3a08bb63cdc6e933642051dc7a",
-    "/styles.77655c993b74a585.css": "320dcd7d650585d8de1882fbd8c0c440958998c3"
+    "/styles.6e40f3eaa92eea1f.css": "31399529f1bcdb3627639b8ff67664e68de7fe44"
   },
   "navigationUrls": [
     {
