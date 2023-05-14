@@ -73,7 +73,7 @@ MIT
 MIT
 
 @ngx-translate/core
-MIT
+SEE LICENSE IN LICENSE
 
 d3
 ISC
